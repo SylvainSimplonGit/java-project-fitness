@@ -1,0 +1,40 @@
+EXERCISE;REP_NB;WEIGHT
+BENCH_PRESS;10;35.5
+BENCH_PRESS;10;36.0
+BENCH_PRESS;10;37.0
+BENCH_PRESS;10;37.5
+BENCH_PRESS;10;39.5
+BENCH_PRESS;10;35.5
+BENCH_PRESS;10;34.5
+BENCH_PRESS;10;35.5
+BENCH_PRESS;10;40.0
+LEG_CURL;15;35.5
+LEG_CURL;15;40.0
+LEG_CURL;15;46.0
+LEG_CURL;15;34.0
+LEG_CURL;15;47.0
+LEG_CURL;15;45.0
+LEG_CURL;15;41.0
+LEG_CURL;15;43.0
+SQUAT;50;52.0
+SQUAT;50;54.0
+SQUAT;50;51.0
+SQUAT;50;46.0
+SQUAT;50;45.0
+
+
+Poids max levé	    54
+Poids moyen levé	49,6	Moyenne des poids utilisé pour le type d'exercice
+Poids médian levé	    	Pour déterminer une médiane d'un ensemble de valeurs, il suffit
+                            d'ordonner les valeurs en une liste croissante et de choisir la valeur
+                            qui est au centre de cette liste.
+                            Pour une liste ordonnée de 2N+1 éléments, la valeur du (N+1)-ième élément
+                            est la médiane.
+                            Pour une liste ordonnée de 2N éléments, toute valeur comprise entre l'élément N
+                             et l'élément N+1 est une médiane ; en pratique, dans le cas d'une liste de
+                             nombres, c'est la moyenne arithmétique de ces deux valeurs centrales qui est le
+                             plus souvent utilisée.
+
+		Ordonner les valeurs de façon croissante
+		Pour 2N + 1 valeur, la valeur N+1 est la médiane
+		Pour 2N valeur, la moyenne de N et N+1 est la médiane
