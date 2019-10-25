@@ -24,8 +24,10 @@ Il s'agit de réaliser un programme en mode console qui permet de :
   - par rapport au poids,
   - par rapport aux répétitions
   
-Le menu du programme aura cette forme :
-![Format du menu du programme](resources/brief/Menu du programme.png)
+Le menu du programme aura cette forme :<br/>
+<p align="center">
+ <img width="60%" src="resources/brief/Menu du programme.png">
+</p>
 
 Ce programme utilisera un fichier CSV pour stocker les données.
 
@@ -76,4 +78,4 @@ Cette commande fera une copie de ce repository sur votre poste local.
 
  ### Améliorations à prévoir
  
- [ ] Ajouter les tests unitaires avec JUnit
+ - [ ] Ajouter les tests unitaires avec JUnit
