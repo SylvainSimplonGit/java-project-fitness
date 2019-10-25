@@ -66,15 +66,15 @@ Cette commande fera une copie de ce repository sur votre poste local.
 
 ## Etapes
 
-1. Définition des différents menus
+ - [X] Définition des différents menus
 
-1. Création de la Class Menu et définition des routes des menus
+ - [X] Création de la Class Menu et définition des routes des menus
 
-1. Création de la Class FileCSV et définition de la méthode writeLineInCsvFile
+ - [X] Création de la Class FileCSV et définition de la méthode writeLineInCsvFile
 
-1. Création de la Class Exercise et de la Class Set
+ - [X] Création de la Class Exercise et de la Class Set
 
-1. Modification de la documentation au format JavaDoc
+ - [X] Modification de la documentation au format JavaDoc
 
  ### Améliorations à prévoir
  
